@@ -1,8 +1,5 @@
 # Courses @ Georgia Tech
 
-## Currently Taking
-
-
 ## Completed Courses
 ### Spring 2025
 - CS 3001: Computer Ethics
