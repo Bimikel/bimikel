@@ -1,6 +1,5 @@
 # Courses @ Georgia Tech
 
-## Completed Courses
 ### Spring 2025
 - CS 3001: Computer Ethics
 - CS 4400: Database Systems
