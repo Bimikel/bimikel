@@ -1,7 +1,12 @@
 # Courses @ Georgia Tech
 
 ## Currently Taking
-
+- MATH 4221: Stochastic Processes 1
+- MATH 4317: Real Analysis 1
+- CS 4420: Database System Implementation
+- CX 3803: Project Design
+- CS 3803: Project Implementation
+- APPH 1040: Scientific Foundations of Health
 
 ## Completed Courses
 ### Spring 2025
