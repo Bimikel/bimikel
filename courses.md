@@ -7,7 +7,7 @@
 - CX 3803: Project Design
 - CS 3803: Project Implementation
 - APPH 1040: Scientific Foundations of Health
-- CS 4903: TA Evaluation
+- CS 4903: Spec Prob Computer Science
 
 ## Completed Courses
 ### Spring 2025
