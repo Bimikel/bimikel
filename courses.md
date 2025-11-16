@@ -4,8 +4,8 @@
 - MATH 4221: Stochastic Processes 1
 - MATH 4317: Real Analysis 1
 - CS 3251: Computer Networking 1
-- CX 3803: Project Design
-- CS 3803: Project Implementation
+- CX 3803: Senior Capstone
+- CS 3803: Technical Communcations
 - APPH 1040: Scientific Foundations of Health
 - CS 4903: Spec Prob Computer Science
 
