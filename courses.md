@@ -2,7 +2,7 @@
 
 ## Currently Taking
 - MATH 4221: Stochastic Processes 1
-- MATH 4317: Real Analysis 1
+- MATH 4317: Analysis 1
 - CS 3251: Computer Networking 1
 - CX 3803: Senior Capstone
 - CS 3803: Technical Communcations
