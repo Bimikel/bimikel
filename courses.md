@@ -1,6 +1,10 @@
 # Courses @ Georgia Tech
 
 ## Currently Taking
+Will be updated later.
+
+## Completed Courses
+### Fall 2025
 - MATH 4221: Stochastic Processes 1
 - MATH 4317: Analysis 1
 - CS 3251: Computer Networking 1
@@ -9,7 +13,6 @@
 - APPH 1040: Scientific Foundations of Health
 - CS 4903: Spec Prob Computer Science
 
-## Completed Courses
 ### Spring 2025
 - CS 3001: Computer Ethics
 - CS 4400: Database Systems
