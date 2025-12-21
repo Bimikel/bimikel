@@ -8,7 +8,7 @@ Will be updated later.
 - MATH 4221: Stochastic Processes 1
 - MATH 4317: Analysis 1
 - CS 3251: Computer Networking 1
-- CX 3803: Senior Capstone
+- CX 3803: Junior Design Capstone
 - CS 3803: Technical Communcations
 - APPH 1040: Scientific Foundations of Health
 - CS 4903: Spec Prob Computer Science
