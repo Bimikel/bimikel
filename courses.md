@@ -1,7 +1,11 @@
 # Courses @ Georgia Tech
 
 ## Currently Taking
-Will be updated later.
+- CS 7643: Deep Learning (Grad)
+- CS 4510: Automata and Complexity Theory
+- CS 4440: Emerging Database Technologies
+- CS 3630: Perception and Robotics
+- MATH 4150: Number Theory
 
 ## Completed Courses
 ### Fall 2025
@@ -26,7 +30,7 @@ Will be updated later.
 - CS 2200: Computer Systems & Networks
 - CS 2340: Objects & Design
 - CS 3511: Honors Design & Analysis of Algorithms
-- CS 3600: Intro to Artificial Intelligence
+- CS 3600: Artificial Intelligence
 - MATH 4210: Math Foundations of Data Science
 - MATH 4801: Math Research Seminar
 
@@ -34,13 +38,13 @@ Will be updated later.
 - CS 1332: Data Structures & Algorithms
 - CS 2110: Computer Organization & Programming
 - MATH 3235: Probability Theory
-- MATH 4107: Abstract Algebra
+- MATH 4107: Abstract Algebra 1
 - MATH 4320: Complex Analysis
 - ENGL 1102: English Composition 2
 
 ### Fall 2023
 - CS 1331: Object-Oriented Programming
-- MATH 2106: Intro to Math Proofs
+- MATH 2106: Foundations of Math Proofs
 - MATH 3012: Applied Combinatorics
 - MATH 3406: Linear Algebra 2
 - MATH 4802: Putnam Problem-Solving
