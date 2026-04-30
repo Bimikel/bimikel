@@ -47,4 +47,4 @@
 - MATH 2106: Foundations of Math Proofs
 - MATH 3012: Applied Combinatorics
 - MATH 3406: Linear Algebra 2
-- MATH 4802: Putnam Problem-Solving
+- MATH 4802: Math Putnam Seminar
